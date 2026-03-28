@@ -1,5 +1,5 @@
-fastapi==0.135.2
-uvicorn==0.42.0
-SQLAlchemy==2.0.48
-pydantic==2.12.5
-requests==2.33.0
+Django>=5.0
+djangorestframework>=3.14
+django-cors-headers>=4.3
+requests>=2.30.0
+drf-spectacular>=0.28.0
