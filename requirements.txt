@@ -3,3 +3,4 @@ djangorestframework>=3.14
 django-cors-headers>=4.3
 requests>=2.30.0
 drf-spectacular>=0.28.0
+gunicorn==25.3.0
