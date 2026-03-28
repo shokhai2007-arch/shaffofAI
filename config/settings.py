@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-udk)o-gta%!#iv&=x00ao1t#v6!y+w%i7+97i493l@%n18tqig'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['shaffofai-production.up.railway.app']
 
 
 # Application definition
